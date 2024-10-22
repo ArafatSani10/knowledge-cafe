@@ -1,0 +1,52 @@
+[
+    {
+        "id": "001",
+        "cover": "https://i.ibb.co.com/x1MgR1b/top-view-online-shopping-concept.jpg?fbclid=IwY2xjawGECARleHRuA2FlbQIxMAABHb59nS9cz-_CfiIXawS0wSG5aVp36df57l9o6o-5uIpHPbzrTG9XGu7uvw_aem_XIoXPU2IJ5--6_X9ebF1JA",
+        "title": "Whispers in the Wind",
+        "author": "Jane Doe",
+        "author_img": "http://example.com/author1.jpg",
+        "posted_date": "2023-10-01",
+        "reading_time": "15 minutes",
+        "hashtags": ["Fiction", "Mystery", "Adventure"]
+    },
+    {
+        "id": "002",
+        "cover": "https://i.ibb.co.com/x1MgR1b/top-view-online-shopping-concept.jpg?fbclid=IwY2xjawGECARleHRuA2FlbQIxMAABHb59nS9cz-_CfiIXawS0wSG5aVp36df57l9o6o-5uIpHPbzrTG9XGu7uvw_aem_XIoXPU2IJ5--6_X9ebF1JA",
+        "title": "The Last Starfighter",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co.com/vsRDmrf/medium-shot-woman-with-book-coffee-shop.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": "20 minutes",
+        "hashtags": ["SciFi", "Space", "Adventure"]
+    },
+    {
+        "id": "003",
+        "cover": "https://i.ibb.co.com/x1MgR1b/top-view-online-shopping-concept.jpg?fbclid=IwY2xjawGECARleHRuA2FlbQIxMAABHb59nS9cz-_CfiIXawS0wSG5aVp36df57l9o6o-5uIpHPbzrTG9XGu7uvw_aem_XIoXPU2IJ5--6_X9ebF1JA",
+        "title": "Beneath the Surface",
+        "author": "Emily Carter",
+        "author_img": "https://i.ibb.co.com/vsRDmrf/medium-shot-woman-with-book-coffee-shop.jpg",
+        "posted_date": "2023-08-22",
+        "reading_time": "25 minutes",
+        "hashtags": ["Drama", "Relationships", "Life"]
+    },
+    {
+        "id": "004",
+        "cover": "https://i.ibb.co.com/x1MgR1b/top-view-online-shopping-concept.jpg?fbclid=IwY2xjawGECARleHRuA2FlbQIxMAABHb59nS9cz-_CfiIXawS0wSG5aVp36df57l9o6o-5uIpHPbzrTG9XGu7uvw_aem_XIoXPU2IJ5--6_X9ebF1JA",
+        "title": "Echoes of the Past",
+        "author": "Michael Lee",
+        "author_img": "https://i.ibb.co.com/vsRDmrf/medium-shot-woman-with-book-coffee-shop.jpg",
+        "posted_date": "2023-07-10",
+        "reading_time": "30 minutes",
+        "hashtags": ["Historical", "Fiction", "Memory"]
+    },
+    {
+        "id": "005",
+        "cover": "https://i.ibb.co.com/x1MgR1b/top-view-online-shopping-concept.jpg?fbclid=IwY2xjawGECARleHRuA2FlbQIxMAABHb59nS9cz-_CfiIXawS0wSG5aVp36df57l9o6o-5uIpHPbzrTG9XGu7uvw_aem_XIoXPU2IJ5--6_X9ebF1JA",
+        "title": "Cooking with Chaos",
+        "author": "Sarah Johnson",
+        "author_img": "https://i.ibb.co.com/vsRDmrf/medium-shot-woman-with-book-coffee-shop.jpg",
+        "posted_date": "2023-10-05",
+        "reading_time": "10 minutes",
+        "hashtags": ["Cooking", "Food", "Recipes"]
+    }
+]
